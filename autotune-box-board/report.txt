@@ -1,0 +1,11 @@
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-F_Cu.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-B_Cu.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-F_Paste.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-B_Paste.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-F_Silkscreen.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-B_Silkscreen.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-F_Mask.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-B_Mask.gbr'.
+Plotted to '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/nima_r/Desktop/Fall_2021/HOPE/projects/autotunemic_new/autotunemic-job.gbrjob'.
+Info: Done.

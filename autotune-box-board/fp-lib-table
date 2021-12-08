@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Amplifier_Audio")(type "KiCad")(uri "${KIPRJMOD}/Amplifier_Audio")(options "")(descr ""))
+)
